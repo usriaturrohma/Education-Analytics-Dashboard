@@ -60,7 +60,7 @@ The dashboard was designed with a focus on:
 
 * **Ethnic Group**:
 
-  * Group C has the largest count (**\319 students**) with consistently higher average scores compared to other groups.
+  * Group C has the largest count (**319 students**) with consistently higher average scores compared to other groups.
   * Group A and Group D follow, while Group B is the smallest.
 
 * **Parental Education Levels**:
