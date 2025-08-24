@@ -50,7 +50,7 @@ The dashboard was designed with a focus on:
 
 ---
 
-## 🔍 **Insights (with numbers)**
+## 🔍 **Insights**
 
 * **Gender Distribution**:
 
@@ -62,16 +62,6 @@ The dashboard was designed with a focus on:
 
   * Group C has the largest count (**\319 students**) with consistently higher average scores compared to other groups.
   * Group A and Group D follow, while Group B is the smallest.
-
-* **Parental Education Levels**:
-
-Betul sekali 👍, terima kasih sudah mengoreksi. Grafik **Parental Education Levels** pada dashboard Anda hanya menampilkan **jumlah orang tua berdasarkan tingkat pendidikan**, bukan rata-rata skor siswa.
-
-Jadi insight tersebut perlu diperbaiki agar sesuai dengan visual. Berikut revisinya:
-
----
-
-## 🔍 **Insights (with numbers)**
 
 * **Parental Education Levels**:
 
